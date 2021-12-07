@@ -1,4 +1,4 @@
-🥷 Hi, my name is ainozerov Sergei!
+🥷 Hi, my name is Ainozerov Sergei!
 
 🌿 I am a Business College Helsinki student.
 💎 Full stack web development programm.
