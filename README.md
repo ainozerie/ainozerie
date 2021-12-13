@@ -8,5 +8,4 @@
 
 🕊 You can contact me using <a href='https://t.me/ainozerie'>telegram</a> or <a href = "mailto: ainozerie.prod@gmail.com">send an email</a>
 
-Some interesting digits:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Some interesting digits of my GitHub stats](https://github-readme-stats.vercel.app/api?username=ainozerie)](https://github.com/ainozerie/github-readme-stats)
