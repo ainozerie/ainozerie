@@ -6,5 +6,5 @@
 📕 I’m currently learning **React**, **Node** and **Express**.
 🕵🏼‍♂️ Here you can take a look at projects that I have made to practice my skills in web development technologies.
 
-🕊 You can contact me using <a href='https://t.me/ainozerie'>telegram</a>, <a href = "mailto: ainozerie.prod@gmail.com">send an email</a> or <a href = "https://www.linkedin.com/in/ainozerie/">LinkedIn</a>
+🕊 You can contact me using <a href='https://t.me/ainozerie'>telegram</a>, <a href = "mailto: ainozerie.prod@gmail.com">send an email</a> or <a href = "https://www.linkedin.com/in/ainozerie/">LinkedIn</a>!
 
