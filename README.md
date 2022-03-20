@@ -1,7 +1,7 @@
 ### 🥷 Hi, my name is Ainozerov Sergei!
 
 🌿 I am a Business College Helsinki student.
-💎 Full stack web development programm.
+💎 Full stack web development program.
 
 📕 I’m currently learning **React**, **Node** and **Express**.
 🕵🏼‍♂️ Here you can take a look at projects that I have made to practice my skills in web development technologies.
