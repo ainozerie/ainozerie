@@ -1,3 +1,3 @@
 ### 🥷 Hi, my name is Ainozerov Sergei!
 
-🌿 I am a sowftware engineer [@twoday Oy](https://www.twoday.fi/)
+🌿 I am a Frontend Developer [@Finnplay Technologies Oy](https://www.finnplay.com/)
